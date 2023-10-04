@@ -7,7 +7,7 @@
    ![pcbstacking](media/pcbstacking.png)
 4. Project Roadmap (upload tsv file to hardware folder), bring safety glasses if you don't already wear eyeglasses, parts kit, as well as Raspberry Pi kit every class from now on.
 5. Proof of purchase, (KiCad for Monday section)
-6. KiCad for Wednesday section (Thanksgiving)
+6. KiCad (incl. BJT as a switch circuit Section 4.5 Page 192 in your Electronic Devices by Floyd) for Wednesday section (Thanksgiving)
 7. Soldering (each group gets a practice board), CorelDraw
 8. Parts arrival
 9. PCB Assembly and testing
@@ -178,7 +178,8 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
     B Steven Lambrinos [Distance Sensor Breakout - 4 Meter, VL53L1X (Qwiic)](https://www.sparkfun.com/products/14722) (0x29)   
     B Faraz Ahmed [SparkFun Qwiic Mini ToF Imager - VL53L5CX](https://www.sparkfun.com/products/19013) (0x52) changed to [Capacitive Touch Slider - CAP1203 (Qwiic)](https://www.sparkfun.com/products/15344) (0x28)   
     B Nathaniel Lozano [SparkFun 9DoF IMU Breakout - ICM - 20948](https://www.sparkfun.com/products/15335) (0x69, 0x68 with Jumper)   
-12.   
+12.   AgriMonitoring by AgriFarms
+    Nitesh Kumar , Alex Fontaine-Bolanos , Mi Nam Alcantra , Taksim Islam 
     A Cedric Miguel Mercado [6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) (0x68) changing to [Qwiic IR Breakout (PIR Sensor)](https://www.sparkfun.com/products/15804) (0x40)   
     B Melvin Carl Pote [Qwiic Mini dToF Imager - TMF8821](https://www.sparkfun.com/products/19451) (0x41) changed to [Triple Axis Accelerometer Breakout - KX132 (Qwiic)](https://www.sparkfun.com/products/17871) (0x1E, alternate 0x1F)   
     B Youngkyu Chung [6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) (0x68) changing to RC522 RFID Reader (0x3C)   
